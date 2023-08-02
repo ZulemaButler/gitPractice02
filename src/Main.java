@@ -6,7 +6,9 @@ public class Main {
 
         System.out.println("Hello I am here");
         System.out.println("how are you");
-        
+        System.out.println("new feature added");
+        System.out.println("new feature in progress");
+
         }
     }
 }
